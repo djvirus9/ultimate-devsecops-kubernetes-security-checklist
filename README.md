@@ -28,6 +28,16 @@ Recommended stack and order of adoption:
 6. Runtime detection: eBPF alerts (Falco)
 7. IR + detections: runbooks and tuning
 
+## Lab Navigation
+
+- [Lab 01: Pre-commit SAST](labs/lab-01-precommit-sast/README.md)
+- [Lab 02: CI PR Gates](labs/lab-02-ci-pr-gates/README.md)
+- [Lab 03: SBOM and Signing](labs/lab-03-sbom-signing/README.md)
+- [Lab 04: K8s Admission Policies](labs/lab-04-k8s-admission-policies/README.md)
+- [Lab 05: Runtime Detection](labs/lab-05-runtime-detection/README.md)
+- [Lab 06: DAST and API Testing](labs/lab-06-dast-api-testing/README.md)
+- [Lab 07: IR and Detections](labs/lab-07-ir-detections/README.md)
+
 ## 🧭 Roadmap Navigation
 
 - [🔄 Phase 1: Shift Left (IDE & Pre-Commit)](#-phase-1-shift-left-ide--pre-commit)
