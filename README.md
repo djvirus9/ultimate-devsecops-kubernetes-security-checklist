@@ -72,6 +72,8 @@ Recommended stack and order of adoption:
 - Sample repos: [samples/README.md](samples/README.md)
 - Integration guides: [integrations/README.md](integrations/README.md)
 - Security testing recipes: [recipes/README.md](recipes/README.md)
+- Incident metrics templates: [metrics-templates/README.md](metrics-templates/README.md)
+- Maturity scorecards: [scorecards/README.md](scorecards/README.md)
 
 ## Real-world Examples
 
